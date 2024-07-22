@@ -1,1 +1,1 @@
-python-3.9.x  # Desteklenen en son 3.9 sürümünü kullanın
+python-3.11
