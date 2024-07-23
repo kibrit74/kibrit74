@@ -48,7 +48,7 @@ proto-plus==1.23.0
 protobuf==4.25.2
 pyasn1==0.5.1
 pyasn1-modules==0.3.0
-pyee==11.1.0
+pyee>=11.1.0
 pyparsing==3.1.1
 requests==2.31.0
 rsa==4.9
